@@ -1,0 +1,47 @@
+﻿[
+    {
+        "image": "../../resource/陈芳语.jpg",
+        "audio": "../../resource/陈芳语-爱你.mp3",
+        "song": "爱你",
+        "album": "陈芳语",
+        "singer": "陈芳语",
+        "duration": 209,
+        "isLike": false
+    },
+    {
+        "image": "../../resource/光良.jpg",
+        "audio": "../../resource/光良-第一次.mp3",
+        "song": "第一次",
+        "album": "回忆里的疯狂",
+        "singer": "光良",
+        "duration": 263,
+        "isLike": false
+    },
+    {
+        "image": "../../resource/许嵩-绝代风华.jpg",
+        "audio": "../../resource/许嵩-绝代风华.mp3",
+        "song": "绝代风华",
+        "album": "绝代风华",
+        "singer": "许嵩",
+        "duration": 255,
+        "isLike": false
+    },
+    {
+        "image": "../../resource/许嵩-寻宝游戏.jpeg",
+        "audio": "../../resource/许嵩-老古董.mp3",
+        "song": "老古董",
+        "album": "寻宝游戏",
+        "singer": "许嵩",
+        "duration": 244,
+        "isLike": false
+    },
+    {
+        "image": "../../resource/许嵩-寻宝游戏.jpeg",
+        "audio": "../../resource/许嵩-明智之举.mp3",
+        "song": "明智之举",
+        "album": "寻宝游戏",
+        "singer": "许嵩",
+        "duration": 267,
+        "isLike": false
+    }
+]
